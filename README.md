@@ -11,3 +11,4 @@ AI 관련 프로젝트
 ![login_resized](https://github.com/user-attachments/assets/0100d6e0-33bf-4f49-b2e5-b512a1e9050d)
 ![login_resized](https://github.com/user-attachments/assets/a7562b14-0514-48c8-8ba9-e5c7deabd691)
 ![login_resized](https://github.com/user-attachments/assets/e737dafa-9e76-41ed-ae43-09c6163ad202)
+<img width="1117" height="556" alt="image" src="https://github.com/user-attachments/assets/ab3506d6-73ae-4864-8afb-5600c35f091a" />
